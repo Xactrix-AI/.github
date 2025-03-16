@@ -19,7 +19,7 @@ At **Xactrix AI**, we are redefining the landscape of **AI automation** by build
 ## 🛠️ Our Tech Stack
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)]()
-[![LangChain](https://img.shields.io/badge/-LangChain-FFD43B?style=flat)]()
+[![LangChain](https://img.shields.io/badge/-LangGraph-FFD43B?style=flat)]()
 [![CrewAI](https://img.shields.io/badge/-CrewAI-FF6F00?style=flat)]()
 [![Microsoft Autogen](https://img.shields.io/badge/-Microsoft_Autogen-0078D4?style=flat&logo=microsoft)]()
 
