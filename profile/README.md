@@ -1,6 +1,5 @@
-<!-- Add your banner image here -->
 <p align="center">
-  <img src="profile\assets\Banner.png" alt="Xactrix AI Banner">
+  <img src="https://github.com/Xactrix-AI/.github/blob/main/profile/assets/Banner.png" alt="Xactrix AI Banner">
 </p>
 
 # 🚀 Xactrix AI – Pioneering the Future of AI Agents
